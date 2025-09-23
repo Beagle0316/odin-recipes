@@ -4,13 +4,20 @@
 
 .indexHeader{
     background-color: crimson;
-    text-align: center;
+    border: 6px;
+    border-color: olivedrab;
+    border-style:dotted;
     font-family: Garamond, serif;
     padding: 8px;
+    text-align: center;
+    margin-bottom: 10px;
 }
 
 .indexList{
     background-color: brown;
+    border: 6px;
+    border-color: olivedrab;
+    border-style:dotted;
     padding: 8px;
     text-align: center;
 }
