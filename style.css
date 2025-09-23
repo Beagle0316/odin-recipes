@@ -8,9 +8,10 @@
     border-color: olivedrab;
     border-style:dotted;
     font-family: Garamond, serif;
+    margin-bottom: 10px;
     padding: 8px;
     text-align: center;
-    margin-bottom: 10px;
+
 }
 
 .indexList{
