@@ -51,3 +51,11 @@
 .recipeBody .recipeHeader{
     color: rgb(165, 29, 47);
 }
+
+.recipeStep{
+   margin-bottom: 16px; 
+}
+
+footer a{
+    color: white;
+}
