@@ -1,13 +1,14 @@
 *{
     box-sizing: border-box;
+    background-color: rgb(56, 55, 55);
 }
 
 .indexHeader{
-    background-color: crimson;
+    background-color: brown;
     border: 6px;
     border-color: olivedrab;
     border-style:dotted;
-    font-family: Garamond, serif;
+    font-family: "Courier New", serif;
     margin-bottom: 10px;
     padding: 8px;
     text-align: center;
@@ -26,4 +27,23 @@
 .indexListItem{
     display: block;
     margin: 50px;
+    background-color: brown;
+}
+
+.indexHeader h1{
+    background-color: brown;
+}
+
+.indexList ul{
+    background-color: brown;
+}
+
+.indexListItem a{
+    background-color: brown;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.recipeHeader{
+    color: rgb(165, 29, 47);
 }
