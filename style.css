@@ -44,6 +44,10 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.recipeHeader{
+.recipeBody{
+    color: white;
+}
+
+.recipeBody .recipeHeader{
     color: rgb(165, 29, 47);
 }
