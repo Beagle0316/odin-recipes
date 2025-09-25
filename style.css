@@ -25,7 +25,6 @@
 }
 
 .indexListItem{
-    display: block;
     margin: 50px;
     background-color: brown;
 }
@@ -46,6 +45,7 @@
 
 .recipeBody{
     color: white;
+    text-align: center;
 }
 
 .recipeBody .recipeHeader{
